@@ -2,7 +2,7 @@
 Una libreria de colores para NodeJS
 
 A veces quieres imprimir una linea en consola pero con otro color
-si has buscado en internet como hacerlo seguros habras encontrado unos
+si has buscado en internet como hacerlo seguro habras encontrado unos
 codigos muy extraños y dificiles de recordar.
 
 Color es una libreria con todos esos codigos.
